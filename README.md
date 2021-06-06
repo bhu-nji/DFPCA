@@ -12,3 +12,5 @@ Distortion-free PCA on Sample Space for Highly Variable Gene Detection from Sing
     * param.skewness    : Selecting the principal component in the absolute range of that parameter (default = 0.5)
     * para.kurtosis_min : Selecting the principal component that the kurtosis value larger than that parameter (default = 3)
   
+### Test dataset
+Test dataset is set to the sample-feature matrix (simulation_dataset.mat) with the label information (sample_labels.mat).
