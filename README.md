@@ -8,6 +8,5 @@ Distortion-free PCA on Sample Space for Highly Variable Gene Detection from Sing
 * test : Normality test for principal components
 
   * 'anderson' : Chi-Square goodness-of-fit test
-  
-  'ske-kur'  : Skewness and kurtosis test
+  * 'ske-kur'  : Skewness and kurtosis test
   
