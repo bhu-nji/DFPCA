@@ -6,7 +6,7 @@ Distortion-free PCA on Sample Space for Highly Variable Gene Detection from Sing
 * param.dim : The number of dimensions to use selecting genes (default = 3)
 * para.s : The number of selecting genes (default = 200)
 * test : Normality test for principal components
-  'anderson' : Chi-Square goodness-of-fit test
+** 'anderson' : Chi-Square goodness-of-fit test
   
   'ske-kur'  : Skewness and kurtosis test
   
