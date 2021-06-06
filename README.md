@@ -3,7 +3,7 @@ Distortion-free PCA on Sample Space for Highly Variable Gene Detection from Sing
 
 ## Usage
 ### Parameters
-*param.dim : The number of dimensions to use selecting genes (default = 3)
+* param.dim : The number of dimensions to use selecting genes (default = 3)
 
 para.s : The number of selecting genes (default = 200)
 
