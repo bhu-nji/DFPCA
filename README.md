@@ -7,8 +7,7 @@ param.dim : The number of dimensions to use selecting genes (default = 3)
 
 para.s : The number of selecting genes (default = 200)
 
-test : Normality test for principal components 
-
+test : Normality test for principal components \\
   'anderson' : Chi-Square goodness-of-fit test
   
   'ske-kur'  : Skewness and kurtosis test
