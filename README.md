@@ -10,5 +10,5 @@ Distortion-free PCA on Sample Space for Highly Variable Gene Detection from Sing
     * param.alpha : Significance level of hypothesis test (default = 1e-4)
   * 'ske-kur'  : Skewness and kurtosis test
     * param.skewness    : Selecting the principal component in the absolute range of that parameter (default = 0.5)
-    * para.kurtosis_min :  
+    * para.kurtosis_min : Selecting the principal component that the kurtosis value larger than that parameter (default = 3)
   
